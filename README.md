@@ -3,6 +3,7 @@
 ## quiz2essay.py
 
 Convert the questionnaire exported Moodle from quiz type to essay type.  
+Allow change from an old category name to a new name
 Input: Moodle XML file  (built-in code parameter QUESTIONARE )
 Output: Moodle XML file (built-in code parameter OUTPUT_FILE )
 
